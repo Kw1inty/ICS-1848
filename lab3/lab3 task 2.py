@@ -1,0 +1,5 @@
+a = float(input("Сторона a: "))
+b = float(input("Сторона b: "))
+c = float(input("Сторона c: "))
+k = float(input("Коефіцієнт k: "))
+print("Новий трикутник:", a * k, b * k, c * k)
